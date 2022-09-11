@@ -9,9 +9,13 @@ blue='\033[1;34m'
 cyan='\033[1;36m'
 pink='\033[1;35m'
 
+echo -e " \033[1;32mCreated by "
 
+figlet MASTER-HACK| pv -qL 50 |lolcat
+sleep 5
+echo -e "
 
-
+"
   figlet MASTER virus| pv -qL 50 |lolcat
 
 
