@@ -98,7 +98,6 @@ fi
 
 elif [[ $virus -eq 2 ]]; then 
 
-
 bash android.sh
 
 
