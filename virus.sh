@@ -40,12 +40,18 @@ read -p " option  => " virus
 
 if [[ $virus -eq 1 ]]; then
 {
+clear
 echo ""
 
 figlet wha virus| pv -qL 50 |lolcat
 
 
 echo -e "
+                          \033[1;31mCREATED by
+
+                \033[1;35mMASTER\033[1;34m-\033[1;33mHACK
+
+
 
 		\033[1;35mWELCOME TO WHA CRASH ITS FOR ONLY EDUCATION PURPOSE
 
