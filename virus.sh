@@ -99,7 +99,7 @@ fi
 elif [[ $virus -eq 2 ]]; then 
 
 
-echo "bash android.sh"
+bash android.sh
 
 
 
