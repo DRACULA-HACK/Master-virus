@@ -97,7 +97,7 @@ fi
 }
 
 elif [[ $virus -eq 2 ]]; then 
-
+cd Tool
 bash android.sh
 
 
