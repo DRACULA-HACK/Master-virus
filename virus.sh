@@ -81,24 +81,39 @@ read -p " option  => " wha_virus
 
 if [[ $wha_virus -eq 1 ]]; then
 
-echo "v1 "
+cd Tool
+cd whacrash
+mv v_1.txt
+cp v_1.txt /sdcard
 
 
 
 elif [[ $wha_virus -eq 2 ]]; then
 
-echo " v2"
+cd Tool
+cd whacrash
+mv v_2.txt
+cp v_2.txt /sdcard
 elif [[ $wha_virus -eq 3 ]]; then
 
-echo "v3 "
+cd Tool
+cd whacrash
+mv v_3.txt
+cp v_3.txt /sdcard
 
 elif [[ $wha_virus -eq 4 ]]; then
 
-echo "v4 "
+cd Tool
+cd whacrash
+mv v_4.txt
+cp v_4.txt /sdcard
 
 elif [[ $wha_virus -eq 5 ]]; then
 
-echo "v5"
+cd Tool
+cd whacrash
+mv v_5.txt
+cp v_5.txt /sdcard
 
 elif [[ $wha_virus -eq 0 ]]; then
 
