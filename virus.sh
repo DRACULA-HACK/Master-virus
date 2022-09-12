@@ -109,7 +109,7 @@ mv v_1.txt
 cp v_1.txt /sdcard
 
 echo -e "
-            it is saved as v_1.txt
+            \033[1;36mit is saved as v_1.txt
             
             its saved to your /sdcard
             
@@ -124,7 +124,7 @@ echo "••••••••••••••••••••100%" | pv -pL
 mv v_2.txt
 cp v_2.txt /sdcard
 echo -e "
-            it is saved as v_2.txt
+            \033[1;36mit is saved as v_2.txt
             
             its saved to your /sdcard
             
@@ -138,7 +138,7 @@ echo "••••••••••••••••••••100%" | pv -pL
 mv v_3.txt
 cp v_3.txt /sdcard
 echo -e "
-            it is saved as v_3.txt
+            \033[1;36mit is saved as v_3.txt
             
             its saved to your /sdcard
             
@@ -153,7 +153,7 @@ echo "••••••••••••••••••••100%" | pv -pL
 mv v_4.txt
 cp v_4.txt /sdcard
 echo -e "
-            it is saved as v_4.txt
+            \033[1;36mit is saved as v_4.txt
             
             its saved to your /sdcard
             
@@ -168,7 +168,7 @@ echo "••••••••••••••••••••100%" | pv -pL
 mv v_5.txt
 cp v_5.txt /sdcard
 echo -e "
-            it is saved as v_5.txt
+            \033[1;36mit is saved as v_5.txt
             
             its saved to your /sdcard
             
@@ -177,7 +177,7 @@ echo -e "
 
 elif [[ $wha_virus -eq 0 ]]; then
 
-echo " exit 0"
+echo " exited"
 fi
 }
 
