@@ -30,4 +30,4 @@ if you not enter the command chmod to executive the files
 Created by 
 MASTER-HACK
 #
-https//wa.me//+916235369260
+https://wa.me//+916235369260
