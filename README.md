@@ -9,7 +9,7 @@ In this script I haded 5 crash wha viruses and 5 virus apks
 #
 #
 
-# INSTALLING
+# INSTAllATION
 #
 apt install pv -y
 #
