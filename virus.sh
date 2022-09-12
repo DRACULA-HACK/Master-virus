@@ -15,11 +15,9 @@ ylo='\033[1;33m'
 blue='\033[1;34m'
 cyan='\033[1;36m'
 pink='\033[1;35m'
-echo -e "\033[1;32m INSTALLING THE packages
+echo -e "\033[1;32m INSTALLING THE packages "
 termux-setup-storage -y
 apt install pv -y
-apt install mv -y
-apt install cp -y
 apt install figlet -y
 apt install ruby -y
 gem install lolcat
