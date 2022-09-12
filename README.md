@@ -2,6 +2,9 @@
 
 #
 Hi
+$
+its me master hack
+
 #
 This is a small tool of virus apks and crash viruses
 #
