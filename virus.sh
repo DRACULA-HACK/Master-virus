@@ -106,37 +106,76 @@ if [[ $wha_virus -eq 1 ]]; then
 
 cd Tool
 cd whacrash
+echo "••••••••••••••••••••100%" | pv -pL | lolcat
 mv v_1.txt
 cp v_1.txt /sdcard
 
-
+echo -e "
+            it is saved as v_1.txt
+            
+            its saved to your /sdcard
+            
+        
+          "
 
 elif [[ $wha_virus -eq 2 ]]; then
 
 cd Tool
 cd whacrash
+echo "••••••••••••••••••••100%" | pv -pL | lolcat
 mv v_2.txt
 cp v_2.txt /sdcard
+echo -e "
+            it is saved as v_2.txt
+            
+            its saved to your /sdcard
+            
+        
+          "
 elif [[ $wha_virus -eq 3 ]]; then
 
 cd Tool
 cd whacrash
+echo "••••••••••••••••••••100%" | pv -pL | lolcat
 mv v_3.txt
 cp v_3.txt /sdcard
+echo -e "
+            it is saved as v_3.txt
+            
+            its saved to your /sdcard
+            
+        
+          "
 
 elif [[ $wha_virus -eq 4 ]]; then
 
 cd Tool
 cd whacrash
+echo "••••••••••••••••••••100%" | pv -pL | lolcat
 mv v_4.txt
 cp v_4.txt /sdcard
+echo -e "
+            it is saved as v_4.txt
+            
+            its saved to your /sdcard
+            
+        
+          "
 
 elif [[ $wha_virus -eq 5 ]]; then
 
 cd Tool
 cd whacrash
+echo "••••••••••••••••••••100%" | pv -pL | lolcat
 mv v_5.txt
 cp v_5.txt /sdcard
+echo -e "
+            it is saved as v_5.txt
+            
+            its saved to your /sdcard
+            
+        
+          "
 
 elif [[ $wha_virus -eq 0 ]]; then
 
