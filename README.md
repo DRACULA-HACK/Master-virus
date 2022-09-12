@@ -1,6 +1,5 @@
 # Master-virus
 
-![49071cfb-e147-485d-bad6-97570a657a21](https://user-images.githubusercontent.com/Screenshot_2022-09-12-21-34-31-135_com.termux.jpg)
 #
 Hi
 #
