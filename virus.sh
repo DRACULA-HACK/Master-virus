@@ -1,5 +1,12 @@
 #!/bin/bash
 clear
+# hi bro its created by master-hack
+# this repo has two main script part 1 and part 2
+# I have made d the intro and wha virus script in a single file
+
+# and used mv and cp commands to save the files
+# hehe k bye
+clear
 
 red='\033[1;31m'
 rset='\033[0m'
@@ -22,6 +29,9 @@ echo -e " if any packages has
  not installed or errors coming 
 please trye again ."
 sleep 10
+figlet welcome |pv -qL 100 |lolcat
+sleep 4
+clear
 echo -e " \033[1;32mCreated by "
 
 figlet MASTER-HACK| pv -qL 50 |lolcat
