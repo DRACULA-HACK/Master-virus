@@ -1,7 +1,8 @@
 # Master-virus
 
+
 #
-Hi guys 
+Hi
 #
 This is a small tool of virus apks and crash viruses
 #
